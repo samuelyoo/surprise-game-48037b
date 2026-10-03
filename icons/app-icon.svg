@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" role="img" aria-labelledby="title desc">
+  <title id="title">별빛 창고</title>
+  <desc id="desc">황금 관측 고리에 놓인 파란 별빛 결정</desc>
+  <rect width="192" height="192" fill="#1c2030"/>
+  <rect width="192" height="192" rx="42" fill="#1c2030"/>
+  <rect x="13" y="13" width="166" height="166" rx="34" fill="#63a7f5"/>
+  <circle cx="96" cy="96" r="57" fill="#50243a"/>
+  <circle cx="96" cy="96" r="47" fill="none" stroke="#f6c94c" stroke-width="13"/>
+  <path d="M96 27v22M96 143v22M27 96h22M143 96h22" stroke="#f6c94c" stroke-width="10"/>
+  <path d="M96 51l33 19 8 37-26 30-39-4-20-33 12-36z" fill="#3269bd" stroke="#1c2030" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M96 51l-5 44 38-25M91 95l20 42M91 95l-39 5" fill="none" stroke="#8dc8ff" stroke-width="7"/>
+  <path d="M70 66h18v9H70z" fill="#fff3d2"/>
+</svg>
